@@ -4,9 +4,9 @@ Context API allows us to store data on a context object, and retrieve that data 
 
 1. In your own words, describe `actions`, `reducers` and the `store` and their role in Redux. What does each piece do? Why is the store known as a 'single source of truth' in a redux application?
 
-store sees all, remembers all
-reducers are the guides
-actions are the doers
+Store sees all, remembers all.
+Reducers are the guides.
+Actions are the doers
 
 Redux is a small, light-weight state container for use when building JavaScript applications. Remember, Redux has nothing to do with React other than the fact that many developers use them together. Redux is a predictable state management library for JavaScript applications and is the most popular State container for React applications.
 
